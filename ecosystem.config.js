@@ -6,7 +6,7 @@ module.exports = {
   deploy: {
     production: {
       user: 'ubuntu',
-      host:  'ec2-18-221-107-128.us-east-2.compute.amazonaws.com'
+      host:  'ec2-18-221-142-143.us-east-2.compute.amazonaws.com',
       key: '~/.ssh/fadiser-1.pem',
       ref: 'origin/master',
       repo: 'git@github.tamu.edu:mailvijayasingh/Fadiser.git',
