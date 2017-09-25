@@ -15,7 +15,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "knex": "^0.13.0",
+    "mysql": "^2.14.1"
   },
   "devDependencies": {
     "pm2": "^2.7.1"
