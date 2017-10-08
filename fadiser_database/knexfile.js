@@ -3,6 +3,6 @@ module.exports = {
   connection: {
     user: 'root',
     password: 'password',
-    database: 'fadiser_database'
+    database: 'rasoi_database'
   }
 }
